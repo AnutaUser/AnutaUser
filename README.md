@@ -12,6 +12,6 @@
 <a href="mailto:bezkorovainaanna048@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
 </a>
-<a href="https://t.me/A_nt_a">
+<a href="https://xn--80affa3aj0al.xn--80asehdb/web/#@A_nt_a">
   <img align="left" alt="Telegram" width="24px" src="https://github.com/feden2906/icons/blob/main/telegram.png" />
 </a>
