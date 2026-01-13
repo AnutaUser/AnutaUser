@@ -1,5 +1,5 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25">
 
-<a href="https://https://www.linkedin.com/in/anna-bezkorovaina-486521241/">
+<a href="https://www.linkedin.com/in/anna-bezkorovaina-486521241/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
