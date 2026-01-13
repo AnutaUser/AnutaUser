@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text=Hey Everyone!🕹️"/>
-</p>
+  ## <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text=Hey Everyone!🕹️"/>
+## </p>
 <!-- https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text=Hey Everyone!🕹️ -->
