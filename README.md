@@ -3,3 +3,6 @@
 <a href="https://www.linkedin.com/in/anna-bezkorovaina-486521241/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
+<a href="https://www.instagram.com/anna_bezkorovaina/">
+  <img align="left" alt="Instagram" width="24px" src="https://github.com/feden2906/icons/blob/main/instagram.png" />
+</a>
