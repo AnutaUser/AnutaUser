@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25">
 
 <!--
 **AnutaUser/AnutaUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-## <p align="center">
-  ## <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text=Hey Everyone!🕹️"/>
-## </p>
-<!-- https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text=Hey Everyone!🕹️ -->
+
