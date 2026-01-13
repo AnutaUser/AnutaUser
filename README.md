@@ -42,7 +42,7 @@
   <img height="25" title="MongoDB" src="https://github.com/AnutaUser/icons/blob/main/skils/MongoDB.png">
 </a>
 <a href="https://github.com/feden2906/icons/blob/main/skils/MySQL.png">
-  <img height="25" title="MySQL" src="https://github.com/feden2906/icons/blob/main/skils/MySQL.png">
+  <img height="25" title="MySQL" src="https://github.com/AnutaUser/icons/blob/main/skils/MySQL.png">
 </a>
 <a href="https://github.com/feden2906/icons/blob/main/skils/docker.png">
   <img height="25" title="Docker" src="https://github.com/AnutaUser/icons/blob/main/skils/docker.png">
