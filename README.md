@@ -9,3 +9,6 @@
 <a href="https://www.facebook.com/profile.php?id=100009942255216">
   <img align="left" alt="Facebook" width="24px" src="https://github.com/feden2906/icons/blob/main/facebook.png" />
 </a>
+<a href="mailto:bezkorovainaanna048@gmail.com">
+  <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
+</a>
